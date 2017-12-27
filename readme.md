@@ -5,6 +5,10 @@ posts from tweets. e.g. when @sarahcpr posted
 https://twitter.com/sarahcpr/status/945378282471600129,
 https://www.instagram.com/p/BdIzpwpj_gg was created.
 
+## Why not use something like ifttt.com?
+
+Instagram doesn't have an API for posting.
+
 ## How it works
 
 You need an twitter account, twitter API credentials, and an instagram
