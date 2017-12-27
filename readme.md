@@ -1,7 +1,7 @@
 # Twitter 2 Instagram
 
-This is a very dirty solution for automatically creating instagram
-posts from tweets. e.g. when @sarahcpr posted
+This is a very dirty solution for turning tweets into images that
+automatically post to instagram. e.g. when @sarahcpr posted
 https://twitter.com/sarahcpr/status/945378282471600129,
 https://www.instagram.com/p/BdIzpwpj_gg was created.
 
@@ -15,7 +15,7 @@ You need an twitter account, twitter API credentials, and an instagram
 account.
 
 * *checkTwitter.php* checks a twitter account and creates images for
-  any posts for which it hasn't created images yet. State is kept in
+  any tweets for which it hasn't created images yet. State is kept in
   the file system.
 * *checkForTweets.php* checks for images created from the step
   above. Images found are posted to the instagram account and the
