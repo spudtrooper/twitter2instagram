@@ -1,7 +1,6 @@
 <?php
 
 require_once('common.php');
-require_once('gdtext.php');
 
 use GDText\Box;
 use GDText\Color;
